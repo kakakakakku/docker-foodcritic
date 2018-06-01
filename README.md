@@ -1,1 +1,3 @@
 # docker-foodcritic
+
+Dockerized Foodcritic 🍕
