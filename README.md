@@ -11,3 +11,8 @@ Dockerized Foodcritic 🍕
 $ docker pull kakakakakku/foodcritic
 $ docker run kakakakakku/foodcritic .
 ```
+
+## Supported versions
+
+- v12.3.0
+- v13.1.1
