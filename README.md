@@ -16,3 +16,4 @@ $ docker run kakakakakku/foodcritic .
 
 - v12.3.0
 - v13.1.1
+- v14.1.0
